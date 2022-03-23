@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustZacca
-- 👀 I’m interested in Data Science, Machine Learning, Data Mining
-- 🌱 I’m currently learning Computer Sience
+- 👀 I’m interested in Data Mining, Blockchain, JS/Python Development and NFT
+- 🌱 I’m currently learning Computer Sience and Working
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zaccagnino.nicholas@gmail.com
 
