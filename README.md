@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @JustZacca
+![alt text](https://github.com/JustZacca/JustZacca/blob/[branch]/image.jpg?raw=true)- 
+👋 Hi, I’m @JustZacca
 - 👀 I’m interested in Data Mining, Blockchain, JS/Python Development and NFT
 - 🌱 I’m currently learning Computer Sience and Working
 - 💞️ I’m looking to collaborate on ...
