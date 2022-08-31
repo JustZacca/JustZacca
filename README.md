@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/zaccagnino-nicholas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustZacca)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustZacca&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 JustZacca/JustZacca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
